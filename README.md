@@ -1,10 +1,10 @@
-# 💰 Calculadora de Formas de Pagamento
+#  Calculadora de Formas de Pagamento
 
 Programa desenvolvido em **Linguagem C** que calcula o valor final de um produto com base na forma de pagamento escolhida pelo usuário.
 
 ---
 
-## 📌 Funcionalidades
+##  Funcionalidades
 
 O sistema permite:
 
