@@ -6,8 +6,6 @@ Programa desenvolvido em **Linguagem C** que calcula o valor final de um produto
 
 ##  Funcionalidades
 
-O sistema permite:
-
 * Inserir o valor de um produto
 * Escolher a forma de pagamento
 * Calcular automaticamente descontos ou juros
@@ -25,7 +23,7 @@ O sistema permite:
 
 ---
 
-## 🖥️ Como Compilar e Executar
+##  Como Compilar e Executar
 
 ### ⚙️ Compilar
 
@@ -46,9 +44,6 @@ gcc 1.c -o pagamento
 * 💻 Linguagem C
 * 🌐 Biblioteca `locale.h` (suporte ao português)
 
----
-
-## 👨‍💻 Autor
 
 **Miguel Miada**
 📧 [miadamiguel@gmail.com](mailto:miadamiguel@gmail.com)
