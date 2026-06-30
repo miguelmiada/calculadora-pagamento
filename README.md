@@ -21,20 +21,7 @@ Programa desenvolvido em **Linguagem C** que calcula o valor final de um produto
 | 3     | Em duas vezes                | Preço normal    |
 | 4     | Em três vezes                |  10% de juros    |
 
----
 
-##  Como Compilar e Executar
-
-### ⚙️ Compilar
-
-```bash
-gcc 1.c -o pagamento
-```
-
-### Executar
-
-```bash
-./pagamento
 ```
 
 ---
